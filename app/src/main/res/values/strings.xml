@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Restaurant Finder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_blank_fragment">About Restaurant Finder By 00003821</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_blank_fragment">The main page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="help_blank_fragment">Help Page</string>
+    <string name="add_new_restaurant">Add New Restaurant</string>
+    <string name="restaurant_name">Restaurant Name</string>
+
+</resources>
